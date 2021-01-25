@@ -1,0 +1,22 @@
+#
+# Generated files
+#
+*.moc
+*conf-cfg
+
+#
+# configuration programs
+#
+conf
+mconf
+nconf
+qconf
+gconf
+
+#
+# temporary files from older version.  Should be removed
+#
+mconf_check
+zconf.???.c
+zconf.hash.c
+.tmp_qtcheck
